@@ -1,0 +1,14 @@
+/*This is my first index CSS file*/
+body{background-color: rgb(185, 184, 184) ;
+
+}
+H1,h3,p{color: rgb(41, 41, 41);font-family: 'Lato', sans-serif
+}
+
+
+.chart{background-color: white;
+width: 330px;
+border width: 10px;
+border-style: solid;
+border-radius: 5px;
+border-color: white}
